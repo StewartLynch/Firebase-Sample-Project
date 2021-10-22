@@ -6,9 +6,7 @@
 //
 
 import SwiftUI
-import FirebaseAuth
 import Firebase
-import FirebaseStorage
 
 @main
 struct Firebase_SampleApp: App {
